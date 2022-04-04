@@ -1,0 +1,18 @@
+.heading{
+    font-family: cursive;
+    font-size:380%;
+    font-weight: bolder;
+    color: rgb(96, 73, 73);
+  }
+  .div{
+    border-radius: 5%;
+    border: 10px solid rgb(237, 162, 162);
+  }
+  body{
+    background-image:linear-gradient( rgb(241, 180, 156),rgb(166, 118, 64));
+  }
+  .title{
+    font-size: 500%;
+    color:rgb(117, 19, 84);
+    font-family: fantasy;
+  }
